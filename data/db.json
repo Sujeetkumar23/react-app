@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "sujeet kumar",
+      "datetime": "May 08, 2024 1:13:37 PM",
+      "body": "hi i'm sujeet kumar form coimbatore "
+    },
+    {
+      "id": "2",
+      "title": "Ashwitha priya",
+      "datetime": "May 08, 2024 1:14:30 PM",
+      "body": "hi im aswitha priya from coimbatore "
+    }
+  ]
+}
